@@ -159,15 +159,15 @@ python app_riset_operasi.py
 🔗 Output & Lampiran Pendukung UAS 
 
 * 
-**Source Code Program:** `app_riset_operasi.py` 
+**Source Code Program:** `https://github.com/hafsahha/Ohyul-Street-Arcade/blob/main/app_riset_operasi.py` 
 
 
 * 
-**File Laporan Lapangan:** `[Masukkan_Nama_File_Laporan_Kelompok_Anda.pdf]` 
+**File Laporan Lapangan:** `https://github.com/hafsahha/Ohyul-Street-Arcade/blob/main/Laporan%20UAS%20TRO%20-%20Hafsah%20%26%20Alifa.pdf` 
 
 
 * 
-**File Presentasi (PPTX):** `[Masukkan_Nama_File_Presentasi_Kelompok_Anda.pptx]` 
+**File Presentasi (PPTX):** `https://github.com/hafsahha/Ohyul-Street-Arcade/blob/main/PPT%20UAS%20TRO%20-%20Hafsah%20%26%20Alifa.pdf` 
 
 
 * 
